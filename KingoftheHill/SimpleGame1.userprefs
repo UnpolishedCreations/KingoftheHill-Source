@@ -1,0 +1,53 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp-Editor" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="ZGONAssets" expanded="True">
+                <Node name="Editor" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-CSharp-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Standard Assets" expanded="True">
+                <Node name="Scripts" expanded="True">
+                  <Node name="General Scripts" expanded="True" />
+                  <Node name="Utility Scripts" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Brain-GameMan-Network" expanded="True" />
+              <Node name="Dark Future" expanded="True">
+                <Node name="ReadMe.txt" selected="True" />
+              </Node>
+              <Node name="HealthPack" expanded="True" />
+              <Node name="KingArea" expanded="True" />
+              <Node name="menu" expanded="True" />
+              <Node name="Player" expanded="True">
+                <Node name="Player1" expanded="True" />
+                <Node name="Player2" expanded="True" />
+                <Node name="RespawnPoints" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+          <Node name="Assembly-UnityScript-firstpass" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Standard Assets" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
